@@ -1,0 +1,3 @@
+
+Evaluation loss on epoch 10 = 169.63950298450612, Performance = 0.6960326721120187
+
